@@ -1,4 +1,3 @@
-
 # Triple-Branch Deep Fake Detection
 
 基于三分支深度学习的假脸检测系统，创新性地结合空间域特征、频域特征和高频噪声特征，实现高精度的假脸识别。
@@ -36,7 +35,6 @@
 git clone https://github.com/zzyss-marker/deepfake.git
 cd triple-branch-deepfake-detection
 ```
-
 
 2. 创建虚拟环境：
 
@@ -78,8 +76,6 @@ project_root/
 ```
 
 ## 模型架构
-
-![Model Architecture](path_to_your_model_architecture_image.png)
 
 三分支模型架构：
 
@@ -202,11 +198,11 @@ wandb login
 
 ```bibtex
 @misc{triple-branch-deepfake,
-  author = {Your Name},
+  author = {pixiu},
   title = {Triple-Branch Deep Fake Detection},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/triple-branch-deepfake-detection}
+  url = {https://github.com/zzyss-marker/deepfake.git}
 }
 ```
 
